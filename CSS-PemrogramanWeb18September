@@ -1,0 +1,55 @@
+.banner{
+    background: url("https://i.pinimg.com/736x/d0/51/7e/d0517e037d0f2cb5575758b7b18b3894.jpg") 
+    no-repeat center center;
+    background-size: cover;
+    padding-top : 20%;
+    padding-bottom: 20%;
+    color : #fff;
+}
+.lingkaran{
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #000000;
+    background-color: aqua;
+}
+
+.lingkaran i {
+position: relative;
+top : 30px;
+}
+
+.crop-img{
+    object-fit: cover;
+}
+
+.leader img{
+width: 250px;
+height: 250px;
+border: 10px solid #000000;
+}
+
+a.social{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    border-radius: 50%;
+    background-color: #000000;
+    line-height: 40px;
+}
+
+.client img{
+    height: auto;
+    max-height: 50px;
+}
+
+.Contact{
+    background: url(https://c4.wallpaperflare.com/wallpaper/193/219/663/black-background-marcus-aurelius-statue-hd-wallpaper-preview.jpg) no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
